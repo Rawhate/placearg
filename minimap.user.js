@@ -2,8 +2,8 @@
 // @name         Minimap PP 
 // @namespace    https://discord.io/cyanzone - https://discord.io/pixelplace
 // @version      1.0.0
-// @description  Minimapa PIXELPLACE.FUN - Young marcos#0800
-// @author       Marcos-Emf
+// @description  Minimapa PIXELPLACE.FUN 
+// @author       Young marcos#0800 - Getulix - Emf
 // @match        https://pixelplace.fun/*
 // @match        http://pixelplace.fun/*
 // @homepage     https://github.com/Marxarg/placearg
